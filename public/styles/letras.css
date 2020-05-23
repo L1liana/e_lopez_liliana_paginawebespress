@@ -1,0 +1,28 @@
+@font-face{
+    font-family: titulo;
+    src: url(lol.ttf);
+ }
+ @font-face{
+    font-family: parrafo;
+    src: url(han.ttf);
+ }
+ @font-face{
+    font-family: de;
+    src: url(de.ttf);
+}
+@font-face{
+    font-family: han;
+    src: url(han.ttf);
+}
+@font-face{
+    font-family: p;
+    src: url(p.ttf);
+}
+@font-face{
+    font-family: es;
+    src: url(Stayland.ttf);
+}
+@font-face{
+    font-family: sun;
+    src: url(sun.ttf);
+}
